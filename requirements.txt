@@ -10,4 +10,3 @@ tornado>=5.1
 cryptography
 python-telegram-bot
 telebot
-tikotokhanet
