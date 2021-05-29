@@ -1,7 +1,6 @@
 {
-  "name": "Heroku Telegram python deploy",
-  "description": "Heroku Telegram python deploy",
+  "name": "Heroku tikotokhanet",
+  "description": "Heroku tikotokhanet",
   "repository": "https://github.com/tianajuliana/tiktok",
-  "logo": "http://pngimg.com/uploads/telegram/telegram_PNG36.png",
   "keywords": ["node", "express", "static"]
 }
