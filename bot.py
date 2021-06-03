@@ -2,7 +2,7 @@ import requests
 import telebot
 import os
 
-bot = telebot.TeleBot("1884439266:AAEvRon1PiWCK0cagWKkFq89AZzaUYtsP8c", parse_mode="HTML") # You can set parse_mode by default. HTML or MARKDOWN
+bot = telebot.TeleBot("1884439266:AAEvRon1PiWCK0cagWKkFq89AZzaUYtsP8c")
 
 
 @bot.message_handler(commands=['start', 'help'])
